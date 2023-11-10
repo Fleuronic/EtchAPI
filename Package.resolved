@@ -6,7 +6,7 @@
       "location" : "https://github.com/Fleuronic/Caesura",
       "state" : {
         "branch" : "main",
-        "revision" : "93c998acbae9530487de5b3e6a82779698667e46"
+        "revision" : "7d91f54c1d59f79d26f0bbbecb751d5993762566"
       }
     },
     {
@@ -15,7 +15,7 @@
       "location" : "https://github.com/Fleuronic/Catena",
       "state" : {
         "branch" : "main",
-        "revision" : "66a8a518270ec6207e467119e10791319f32fcc2"
+        "revision" : "18672126bc29b99c51751d63b5299607bc6bd856"
       }
     },
     {
@@ -24,7 +24,7 @@
       "location" : "https://github.com/Fleuronic/Catenary",
       "state" : {
         "branch" : "main",
-        "revision" : "80e8f3800b0027ee1164f79eac6f2ed903542b61"
+        "revision" : "f6ea9207438d6eeb7ad78d981b4af6b11e76dfc6"
       }
     },
     {
@@ -60,7 +60,7 @@
       "location" : "https://github.com/Fleuronic/Etch",
       "state" : {
         "branch" : "main",
-        "revision" : "2f8d92dd51721dcc2703b2116f36ff1cd807cf02"
+        "revision" : "8280699a61e022a350566a53523b1b754cf7aa05"
       }
     },
     {
@@ -69,7 +69,7 @@
       "location" : "https://github.com/Fleuronic/EtchService",
       "state" : {
         "branch" : "main",
-        "revision" : "f96cdb52d1a9321afe0c5b9163cae75947b90102"
+        "revision" : "eb1c739470722aee12061556b99de59a00e3df36"
       }
     },
     {
