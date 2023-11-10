@@ -6,8 +6,11 @@ import class Foundation.JSONDecoder
 import class Foundation.DateFormatter
 import protocol Catenary.API
 import protocol Caesura.HasuraAPI
+import protocol EtchService.TeamFields
 
-public struct API {
+public struct API<
+	TeamDetails: TeamFields
+> {
 	let apiKey: String
 
 	public init(apiKey: String) {
